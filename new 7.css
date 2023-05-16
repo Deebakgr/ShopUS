@@ -1,0 +1,21 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-image: url("./images/img.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: #020807;
+	padding: 100px;
+	text-align: center;
+}
+
+.price {
+	color: rgb(227, 236, 235);
+	font-size: 1.2em;
+	font-weight: bold;
+  }
+  
